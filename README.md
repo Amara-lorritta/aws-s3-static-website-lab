@@ -20,12 +20,7 @@ Understand public access settings, ACLs, and S3 website hosting
 
 ## **Architecture**
 
-The diagram below illustrates the flow of this lab setup:
-
-🧑‍💻 User → 🔐 AWS Console / CLI (Session Manager) → 🖥️ EC2 Instance (Amazon Linux) → 🪣 Amazon S3 Bucket → 🌐 Public Website Endpoint
-
-
-(AWS-style architecture diagram showing User → EC2 → S3 → Public Website)
+<img width="600" height="500" alt="ca33aa0a-393f-4780-8c5e-5f38c083fd3f" src="https://github.com/user-attachments/assets/9c808373-bea6-45bc-81ef-96849719c787" />
 
 ## **Commands and Steps**
 ```bash
@@ -119,3 +114,6 @@ Accessed the website via the public S3 endpoint.
 Built and tested an update script to redeploy changes automatically.
 
 ## **Author**
+
+Amarachi Emeziem
+
