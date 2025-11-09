@@ -20,7 +20,7 @@ Understand public access settings, ACLs, and S3 website hosting
 
 ## **Architecture**
 
-<img width="600" height="500" alt="ca33aa0a-393f-4780-8c5e-5f38c083fd3f" src="https://github.com/user-attachments/assets/9c808373-bea6-45bc-81ef-96849719c787" />
+<img width="800" height="400" alt="ca33aa0a-393f-4780-8c5e-5f38c083fd3f" src="https://github.com/user-attachments/assets/9c808373-bea6-45bc-81ef-96849719c787" />
 
 ## **Commands and Steps**
 ```bash
@@ -62,11 +62,20 @@ chmod +x update-website.sh
 
 ## **Screenshots**
 Screenshot Name	Image Link
-S3 Bucket Created	(Add your screenshot link)
-IAM User Created	(Add your screenshot link)
-Static Website Upload Success	(Add your screenshot link)
-Website Endpoint Live	(Add your screenshot link)
-CLI Sync Script Execution	(Add your screenshot link)
+
+S3 Bucket Created
+<img width="1411" height="200" alt="s3" src="https://github.com/user-attachments/assets/a34fc1e9-10c4-4441-82d7-d7e56c33ae1f" />
+
+IAM User Created
+<img width="1000" height="215" alt="IAM user created" src="https://github.com/user-attachments/assets/9ab02135-1f29-41a4-9196-c7e16c329d40" />
+
+Static Website Upload Success
+<img width="1000" height="200" alt="upload" src="https://github.com/user-attachments/assets/61d84242-841f-4568-966a-4ada23ce2bcf" />
+
+
+Website Endpoint Live	
+
+<img width="700" height="500" alt="end point" src="https://github.com/user-attachments/assets/987a0985-0478-4434-bf2b-a6e48193931a" />
 
 
 ## **Tools Used**
